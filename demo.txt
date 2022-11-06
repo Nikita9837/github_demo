@@ -1,4 +1,5 @@
 Hello I am Niks.
 Hello I am branch-1.
 Hello I am branch-2.
+mixed reset.
 
